@@ -1,0 +1,6 @@
+{
+  "name": "ScanWise",
+  "description": "Premium mobile-first food barcode scanner with nutrition scores, allergen alerts, and AI health insights",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
